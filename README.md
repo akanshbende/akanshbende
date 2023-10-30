@@ -1,4 +1,4 @@
 ### HacktoberFest 2023
 
-![HoloPin Link](https://holopin.io/@akanshbende)
+[![An image of @akanshbende's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akanshbende)](https://holopin.io/@akanshbende)
 
