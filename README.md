@@ -1,3 +1,3 @@
-### Hi there 👋
+### HacktoberFest 2023
 
- ![holopinbadges](https://www.holopin.io/@akanshbende#)  
+ ![holopinbadges](holopin.io/@akanshbende)  
