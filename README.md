@@ -1,4 +1,4 @@
 ### HacktoberFest 2023
 
-[HoloPin Link](https://holopin.io/@akanshbende)
+![HoloPin Link](https://holopin.io/@akanshbende)
 
